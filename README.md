@@ -1,4 +1,4 @@
-# ✨ Hi! Welcome to my Github profile! I'm Rômulo (aka Mumu) ✨
+# ✨Welcome to my Github profile! I'm Rômulo (aka Mumu) ✨
 
 <!--
 **romuloScripts/romuloScripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
